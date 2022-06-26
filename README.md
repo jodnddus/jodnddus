@@ -1,6 +1,5 @@
 # 안녕하세요! 👋
 
-프론트엔드 파트에서 개발하는 조웅연입니다. <br />
-주로 React와 Typescript를 이용해서 개발을 했습니다.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjodnddus&count_bg=%233D6AFF&title_bg=%23EEEBE8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-좋은 서비스를 만들기 위해서는 **끊임없는 물음**이 필요하다고 생각합니다.
+https://my.surfit.io/w/1698721204
